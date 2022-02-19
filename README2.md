@@ -18,3 +18,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Bu birinci ekleme.
 Şimdi olması lazım. İlkinde başka bir şey var.
+
+### Copyright
+
+2014 Git.Tranining
