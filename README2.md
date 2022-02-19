@@ -3,6 +3,8 @@ This is a simple website project for showing how to use Git and Github together.
 Adding more text text text sadsa
 HATAMI DUZELTMEYE CALISIYORUM
 
+artık yeter ya off 
+
 BUNU YAZAN (MYFEATURE)
 ## Introduction
 
