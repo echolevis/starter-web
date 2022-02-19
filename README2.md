@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a simple website project for showing how to use Git and Github together.
-Adding more text text text sadsa
+Updating a line
 HATAMI DUZELTMEYE CALISIYORUM
 
 Burada yeni düzenleme yapildi.
